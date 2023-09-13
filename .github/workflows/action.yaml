@@ -1,5 +1,5 @@
 name: Run shell command
-on: [push]
+on: [fork]
 
 jobs:
   run-shell-comand:
